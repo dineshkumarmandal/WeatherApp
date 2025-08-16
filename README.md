@@ -24,10 +24,8 @@ A web-based weather forecast application built with **Python (Flask)** and the *
 
 ### 1. Clone the repository
 
-```bash
 git clone https://github.com/dineshkumarmandal/WeatherApp.git
 cd WeatherApp
-
 
 ### 2. Run the application
 
