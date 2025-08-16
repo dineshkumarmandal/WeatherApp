@@ -27,3 +27,12 @@ A web-based weather forecast application built with **Python (Flask)** and the *
 ```bash
 git clone https://github.com/dineshkumarmandal/WeatherApp.git
 cd WeatherApp
+
+
+### 2. Run the application
+
+```bash
+python app.py
+
+Then, Visit http://127.0.0.1:5000 in your browser to access the application.
+
