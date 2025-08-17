@@ -24,10 +24,21 @@ A web-based weather forecast application built with **Python (Flask)** and the *
 
 ### 1. Clone the repository
 
-git clone https://github.com/dineshkumarmandal/WeatherApp.git
-cd WeatherApp
+    git clone https://github.com/dineshkumarmandal/WeatherApp.git
+    
+    cd WeatherApp
 
-### 2. Run the application
+### 2. Install Python and Flask
+    Step 1: Install Python
+            ​First, you need to install Python. It's recommended to download the official installer from the Python.org website. During installation, make sure to check the box that says "Add Python to PATH." This will make it easier to run Python from your command line.  After the installation is complete, you can verify that it's working by opening a terminal or command prompt and typing python --version (or python3 --version on macOS/Linux).
+    Step 3: Install Flask
+            After install pip. Now you can install Flask using pip, the Python package manager.
+            ​In your terminal, run the following command:
+            pip install Flask
+
+    ​You are now ready to start your Flask project.
+
+### 3. Run the application
 
 ```bash
 python app.py
